@@ -1,0 +1,7 @@
+game controls :
+use arrows for moving and rotating the block
+use h - helicopter view 
+    f - fellow view
+    b - block view
+    t - tower view
+    o - top view
