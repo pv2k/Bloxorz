@@ -1,5 +1,8 @@
-To run the game:
+#Bloxorz
+To complete a level:
+you have to position the block in correct position on floor by moving or rotating it
 
+To run the game:
 1) Go to the GLFW directory.
 2) run the following commands:
       i) make
